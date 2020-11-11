@@ -1,2 +1,5 @@
-Well, Imaginary Friend bot can do a lot – type /help to know about available commands.
-But its purpose is to listen to you, learn from you, and eventually become a perfect conversational partner.
+Bem, Imaginary Friend bot pode fazer muita coisa – envie /help para saber os comandos diponíveis.
+
+O propósito do bot é ouvir e aprender com você, para com o tempo construir uma base de conversa parecida com a humana
+
+Bot revivido por @matheus_bach
