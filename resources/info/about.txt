@@ -1,1 +1,3 @@
-This bot's purpose is to listen to you, learn from you, and eventually become a perfect conversational partner
+Esse bot vai ouvir e aprender com você, para com o tempo virar um parceiro perfeito de conversa.
+
+Dev: @matheus_bach
